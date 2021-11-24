@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d5ba2666-9e7a-a146-c42b-2ed1b9e1ff70"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Aerodynamics",
+  "course_description": "This course extends fluid mechanic concepts from Unified Engineering to the aerodynamic performance of wings and bodies in sub/supersonic regimes. 16.100 generally has four components: subsonic potential flows, including source/vortex panel methods; viscous flows, including laminar and turbulent boundary layers; aerodynamics of airfoils and wings, including thin airfoil theory, lifting line theory, and panel method/interacting boundary layer methods; and supersonic and hypersonic airfoil theory. Course material varies each year depending upon the focus of the design problem.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.100",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
